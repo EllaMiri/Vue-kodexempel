@@ -8,7 +8,7 @@ Nedan följer information om hur du startar projektet!
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Run
 
 ```sh
 npm run dev
